@@ -1,4 +1,4 @@
-In this project, I have solved a series of questions across three levels: Basic, Moderate, and Advanced, all using SQL. Feel free to explore the files and see how I approached each problem. Your feedback and contributions are always welcome!
+In this project, I have solved various SQL questions across three levels: Basic, Moderate, and Advanced. You can explore the solutions to these questions and also find a comprehensive SQL Questions and Answers PDF. Feel free to check them out and use them as references for your own learning and projects.
 
 # Easy
 Q1 Who is the senior most employee based on job title?
